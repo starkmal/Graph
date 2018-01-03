@@ -3,7 +3,7 @@
 
 #### [NKOJ 2711 【网络流】上下界可行流 ](http://oi.nks.edu.cn/zh/Problem/Details/2711):white_check_mark:
 
-#### [NKOJ 2712 【网络流】上下界最大流 ](http://oi.nks.edu.cn/zh/Problem/Details/2712)
+#### [NKOJ 2712 【网络流】上下界最大流 ](http://oi.nks.edu.cn/zh/Problem/Details/2712):white_check_mark:
 
 #### [NKOJ 2713 【网络流】上下界最小流 ](http://oi.nks.edu.cn/zh/Problem/Details/2713)
 
