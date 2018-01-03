@@ -7,7 +7,7 @@
 
 #### [NKOJ 2713 【网络流】上下界最小流 ](http://oi.nks.edu.cn/zh/Problem/Details/2713)
 
-#### [ BZOJ 3876  支线剧情 ](http://www.lydsy.com/JudgeOnline/problem.php?id=3876)
+#### [ NKOJ 4378  支线剧情 ](http://oi.nks.edu.cn/zh/Problem/Details/4378)
 
 #### [ NKOJ 2288 矩阵 ](http://oi.nks.edu.cn/zh/Problem/Details/2288)
 
