@@ -6,5 +6,4 @@
 
 #### [P2211【2-SAT】完美的选举](http://oi.nks.edu.cn/zh/Problem/Details/2211):white_check_mark:
 
-
-
+#### [P2350【2-SAT】False or True](http://oi.nks.edu.cn/zh/Problem/Details/2350):white_check_mark:
