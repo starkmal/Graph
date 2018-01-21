@@ -12,8 +12,8 @@
 
 ### 仙人掌LCA
 
-#### [BZOJ2125 最短路] (http://www.lydsy.com/JudgeOnline/problem.php?id=2125):white_check_mark:
+#### [BZOJ2125 最短路] (http://www.lydsy.com/JudgeOnline/problem.php?id=2125) :white_check_mark:
 
-#### [P3846光通讯] (http://oi.nks.edu.cn/zh/Problem/Details/3846):white_check_mark:
+#### [P3846光通讯] (http://oi.nks.edu.cn/zh/Problem/Details/3846) :white_check_mark:
 
 #### [P3159【nodgd又来造水题】静态仙人掌] (http://oi.nks.edu.cn/zh/Problem/Details/3159)
